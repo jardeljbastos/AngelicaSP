@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
+
+## Skin
+
+### Multiline Text
+HTMLText_7C04EE5A_7308_C4C3_41D8_B60D01E5731F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Right</SPAN></DIV></div>
+HTMLText_7C351E4F_7308_C4C1_417F_2F057277954C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Left</SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_792DE64D_7309_44C6_41DC_333E787734EC.label = LYLH0258
+panorama_7A77270F_7309_4442_41CA_5017C3046C80.label = RVXB3999
